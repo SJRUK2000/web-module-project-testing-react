@@ -12,7 +12,7 @@ This module explored passing props into test components, rerendering components 
 As a developer, you will often be asked to write tests for the feature you are building and even on features other developers have built. In this project, we will mimic a situation where you are asked to test someone else's code.
 
 Get the project fired up and start using it as a user would. Try to go through the user sequences for this feature that you think users would go through. Once you have those in mind, you will have an idea of what to test in your application.
-
+n
 ![Stranger Example](project_example.gif)
 
 ***Make sure to complete your tasks one at a time and complete test each task before proceeding forward.***
